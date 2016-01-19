@@ -5,4 +5,4 @@
 ##### and probaly wont be usful becuase:
 * ist hebrew!
 * i dont realy planned anything
-* * i dont have time to work on this
+*  i dont have time to work on this
